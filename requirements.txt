@@ -1,5 +1,5 @@
-Flask==1.1.2
+Flask
 joblib==1.0.1
-numpy==1.23.3
-pandas==1.4.2
+numpy
+pandas
 gunicorn
