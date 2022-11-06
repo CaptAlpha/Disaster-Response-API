@@ -3,4 +3,5 @@ joblib==1.0.1
 numpy
 pandas
 gunicorn
-scikit-learn
+scikit-learn	
+catboost
